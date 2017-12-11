@@ -3,5 +3,5 @@ declared-services:
       label: dashDB
       plan: Entry
 applications:
-- name:    financial-performance-predition
+- name:    financial-performance-predition-kev
   memory:  256M
